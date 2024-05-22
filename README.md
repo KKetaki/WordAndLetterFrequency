@@ -31,6 +31,5 @@ o	'AMBIENT', 'Ambient' and 'ambient' are treated as "AMBIENT"
 -	Letters are to be treated as the uppercase version
 o	'A' and 'a' are both 'A'
 -	Special characters are ignored. Not interested in frequency of '-' and ‘@’
-![image](https://github.com/KKetaki/University-Assignment---TestStats/assets/170529795/da55174d-ad0b-480e-92c6-3a69b03fcd28)
 
 
