@@ -2,7 +2,7 @@
 Design and implement a programme that analyses an English language text file and prints statistics of characters and words.
 Introduction
 In the course of the module, you will learn to ..
--	build C# console application using .NET Framework. 
+-	Build C# console application using .NET Framework. 
 -	construct code: use types, create variables, design methods and code constructs, and design class.
 This assignment provides you with the opportunity to consolidate your skills,  design, and implement the above concepts in a working program.
 This assignment is designed on the narrative of frequency of words and letters in English text. For example, we expect the letter ‘E’ and word ‘THE’ to be the most frequent in English text. For more, see Appendix.
